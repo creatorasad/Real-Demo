@@ -11,3 +11,6 @@ Update your lambdatest username and access key in Appiumcode.java file
 Run the test 
 
     $ mvn test
+
+
+
