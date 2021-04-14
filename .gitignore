@@ -1,6 +1,5 @@
 .DS_Store
 .classpath
-.project
 test-output/
 target/
 .settings/
