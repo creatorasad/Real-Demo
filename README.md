@@ -9,7 +9,7 @@
     $ install maven
     ```
     ```
-### Stpe - 
+### Step - 
 
 ```
 Update username and key in Appiumcode.java
