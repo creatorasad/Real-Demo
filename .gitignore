@@ -1,5 +1,5 @@
 .DS_Store
 .classpath
 test-output/
-target/
-.settings/
+/target/
+.settings
