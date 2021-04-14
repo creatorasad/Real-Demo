@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-14T10:16:32Z" name="Suite" finished-at="2021-04-14T10:18:08Z" duration-ms="95865">
+    <groups>
+    </groups>
+    <test started-at="2021-04-14T10:16:32Z" name="2" finished-at="2021-04-14T10:18:02Z" duration-ms="90540">
+      <class name="RealFullCode.Appiumcode">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RealFullCode.Appiumcode@1a18644]" started-at="2021-04-14T10:16:32Z" name="setUp" finished-at="2021-04-14T10:16:45Z" duration-ms="13190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Galaxy S10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddDelete()[pri:0, instance:RealFullCode.Appiumcode@1a18644]" started-at="2021-04-14T10:16:45Z" name="AddDelete" finished-at="2021-04-14T10:16:58Z" duration-ms="12767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddDelete -->
+        <test-method signature="Site()[pri:0, instance:RealFullCode.Appiumcode@1a18644]" started-at="2021-04-14T10:16:58Z" name="Site" finished-at="2021-04-14T10:17:29Z" duration-ms="31236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Site -->
+        <test-method signature="drag()[pri:0, instance:RealFullCode.Appiumcode@1a18644]" started-at="2021-04-14T10:17:29Z" name="drag" finished-at="2021-04-14T10:17:48Z" duration-ms="19065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drag -->
+        <test-method signature="dropdown()[pri:0, instance:RealFullCode.Appiumcode@1a18644]" started-at="2021-04-14T10:17:48Z" name="dropdown" finished-at="2021-04-14T10:17:55Z" duration-ms="7365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method signature="maxi()[pri:0, instance:RealFullCode.Appiumcode@1a18644]" started-at="2021-04-14T10:17:55Z" name="maxi" finished-at="2021-04-14T10:18:02Z" duration-ms="6475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxi -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RealFullCode.Appiumcode@1a18644]" started-at="2021-04-14T10:18:02Z" name="tearDown" finished-at="2021-04-14T10:18:02Z" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- RealFullCode.Appiumcode -->
+    </test> <!-- 2 -->
+    <test started-at="2021-04-14T10:16:32Z" name="1" finished-at="2021-04-14T10:18:08Z" duration-ms="95865">
+      <class name="RealFullCode.Appiumcode">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RealFullCode.Appiumcode@16a0ee18]" started-at="2021-04-14T10:16:32Z" name="setUp" finished-at="2021-04-14T10:16:45Z" duration-ms="13819" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Galaxy S10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddDelete()[pri:0, instance:RealFullCode.Appiumcode@16a0ee18]" started-at="2021-04-14T10:16:45Z" name="AddDelete" finished-at="2021-04-14T10:16:59Z" duration-ms="13658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddDelete -->
+        <test-method signature="Site()[pri:0, instance:RealFullCode.Appiumcode@16a0ee18]" started-at="2021-04-14T10:16:59Z" name="Site" finished-at="2021-04-14T10:17:31Z" duration-ms="32000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Site -->
+        <test-method signature="drag()[pri:0, instance:RealFullCode.Appiumcode@16a0ee18]" started-at="2021-04-14T10:17:31Z" name="drag" finished-at="2021-04-14T10:17:49Z" duration-ms="17587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drag -->
+        <test-method signature="dropdown()[pri:0, instance:RealFullCode.Appiumcode@16a0ee18]" started-at="2021-04-14T10:17:49Z" name="dropdown" finished-at="2021-04-14T10:17:57Z" duration-ms="7794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method signature="maxi()[pri:0, instance:RealFullCode.Appiumcode@16a0ee18]" started-at="2021-04-14T10:17:57Z" name="maxi" finished-at="2021-04-14T10:18:03Z" duration-ms="6514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxi -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RealFullCode.Appiumcode@16a0ee18]" started-at="2021-04-14T10:18:03Z" name="tearDown" finished-at="2021-04-14T10:18:08Z" duration-ms="4486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- RealFullCode.Appiumcode -->
+    </test> <!-- 1 -->
+  </suite> <!-- Suite -->
+</testng-results>
