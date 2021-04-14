@@ -13,6 +13,7 @@
 
 ```
 Update username and key in Appiumcode.java
+Chnage hub url 
 Add parallel devices in Testng.xml
 ```
 ### Running Tests
