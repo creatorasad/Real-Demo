@@ -9,7 +9,12 @@
     $ install maven
     ```
     ```
+### Stpe - 
 
+```
+Update username and key in Appiumcode.java
+Add parallel devices in Testng.xml
+```
 ### Running Tests
 
 ```
